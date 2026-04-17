@@ -12,7 +12,7 @@ I am a **Mathematics and Computing** student at **RGIPT** ('29), focused on buil
 - **Languages:** Python, C++, JavaScript, TypeScript
 - **Web:** Next.js, React, FastAPI, Node.js
 - **AI/ML & Math:** Scikit-learn, Pandas, NumPy, Scilab, LaTeX
-- **Tools:** VS Code, Git, Docker
+- **Tools:** VS Code, Git, Docker,  scilab, octave
 
 ### 📊 Currently Learning
 - Advanced Multivariable Calculus & Linear Algebra (for ML optimization).
