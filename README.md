@@ -19,9 +19,8 @@ I am a **Mathematics and Computing** student at **RGIPT** ('29), focused on buil
 - Deep Learning architectures and Computer Vision.
 
 ### 📫 How to reach me
-- **LinkedIn:** [Your Link Here]
-- **Portfolio:** [Your Link Here]
-- **Email:** [Your Email Here]
+- **LinkedIn:** https://www.linkedin.com/in/priyanshu-bb69b9379?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- **Email:** priyanshu0308w@gmail.com
 
 ---
 *"Solving for $x$ by day, debugging by night."*
